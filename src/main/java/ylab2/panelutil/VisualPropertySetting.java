@@ -1,20 +1,16 @@
 package ylab2.panelutil;
 
 import ylab2.ApplicationEntry;
-import ylab2.SettingPanel;
 import ylab2.ioutil.PropertiesUtil;
 import ylab2.model.Data;
 
 import javax.swing.*;
-
 import java.awt.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
 
 public class VisualPropertySetting extends JFrame {
-
-    private SettingPanel panel;
 
     public VisualPropertySetting() {
         init();

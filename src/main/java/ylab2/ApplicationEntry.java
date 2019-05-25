@@ -1,8 +1,5 @@
 package ylab2;
 
-import java.io.UnsupportedEncodingException;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
 
 import ylab2.model.Data;
 
