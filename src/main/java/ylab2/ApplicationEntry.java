@@ -6,6 +6,7 @@ import java.security.NoSuchAlgorithmException;
 
 import ylab2.model.Data;
 
+
 public class ApplicationEntry {
     public static void start(Data data){
 
