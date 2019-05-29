@@ -5,7 +5,7 @@ public interface PathConst {
 
 //    String HOME_URL = "http://cem.ylab.cn/user/home.action";
 
-    String PROPERTY="D://ylab/trace.properties";
+    String PROPERTY="/Users/liberal/tool/ylab/trace.properties";
 
     String POST_URL = "http://cem.ylab.cn/user/doReserve.action";
 }
